@@ -11,9 +11,8 @@ return `
 
 ⏣➣ Pra alterar o nome do bot :
 
-⏣➣  ${prefix}nome-bot Nome que deseja 
+⏣➣  ${prefix}Teobot
 
-⏣➣  Pode por letras modificadas também 🙂
 
 
 ╰───────────────
@@ -37,7 +36,7 @@ return `
   
 ⏣➣  Configurar o número do dono  
   
-⏣➣  ${prefix}numero-dono 55xxxxxx
+⏣➣  ${prefix}numero-dono 393913625887
 
 ⏣➣  o número tem que ser junto, e não pode conter o símbolo de + nem - e não pode ter o 9 da operadora, tem que ser o número idêntico ao seu do whatsapp.
   
